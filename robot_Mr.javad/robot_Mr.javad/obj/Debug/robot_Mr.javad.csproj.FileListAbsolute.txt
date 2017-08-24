@@ -1,0 +1,19 @@
+c:\users\asus\documents\visual studio 2017\Projects\robot_Mr.javad\robot_Mr.javad\bin\Debug\robot_Mr.javad.exe.config
+c:\users\asus\documents\visual studio 2017\Projects\robot_Mr.javad\robot_Mr.javad\bin\Debug\robot_Mr.javad.exe
+c:\users\asus\documents\visual studio 2017\Projects\robot_Mr.javad\robot_Mr.javad\bin\Debug\robot_Mr.javad.pdb
+c:\users\asus\documents\visual studio 2017\Projects\robot_Mr.javad\robot_Mr.javad\bin\Debug\Telegram.dll
+c:\users\asus\documents\visual studio 2017\Projects\robot_Mr.javad\robot_Mr.javad\obj\Debug\robot_Mr.javad.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2017\Projects\robot_Mr.javad\robot_Mr.javad\obj\Debug\robot_Mr.javad.Form1.resources
+c:\users\asus\documents\visual studio 2017\Projects\robot_Mr.javad\robot_Mr.javad\obj\Debug\robot_Mr.javad.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2017\Projects\robot_Mr.javad\robot_Mr.javad\obj\Debug\robot_Mr.javad.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2017\Projects\robot_Mr.javad\robot_Mr.javad\obj\Debug\robot_Mr.javad.exe
+c:\users\asus\documents\visual studio 2017\Projects\robot_Mr.javad\robot_Mr.javad\obj\Debug\robot_Mr.javad.pdb
+E:\robot_Mr.javad\robot_Mr.javad\bin\Debug\robot_Mr.javad.exe.config
+E:\robot_Mr.javad\robot_Mr.javad\bin\Debug\robot_Mr.javad.exe
+E:\robot_Mr.javad\robot_Mr.javad\bin\Debug\robot_Mr.javad.pdb
+E:\robot_Mr.javad\robot_Mr.javad\obj\Debug\robot_Mr.javad.csprojResolveAssemblyReference.cache
+E:\robot_Mr.javad\robot_Mr.javad\obj\Debug\robot_Mr.javad.Form1.resources
+E:\robot_Mr.javad\robot_Mr.javad\obj\Debug\robot_Mr.javad.Properties.Resources.resources
+E:\robot_Mr.javad\robot_Mr.javad\obj\Debug\robot_Mr.javad.csproj.GenerateResource.Cache
+E:\robot_Mr.javad\robot_Mr.javad\obj\Debug\robot_Mr.javad.exe
+E:\robot_Mr.javad\robot_Mr.javad\obj\Debug\robot_Mr.javad.pdb
